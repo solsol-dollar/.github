@@ -1,7 +1,7 @@
 ---
 name: "⚙️ Chore"
 about: 단순 코드 수정, 빌드 설정, 라이브러리 업데이트 등을 기록합니다.
-title: "[Chore] - "
+title: "[chore] - "
 labels: 'chore'
 assignees: ''
 
